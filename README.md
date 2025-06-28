@@ -2,20 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srushti+Deshmukh!;+A+DevOps+Engineer+from+India!" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Srushtideshmukh44&label=Profile%20views&color=0e75b6&style=flat" alt="srushtideshmukh44" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Srushtideshmukh44&label=Profile%20views&color=0e75b6&style=flat" alt="srushtideshmukh44" /> </p
+                                                 |
 
----
-
-## 🧠 Domains, Skills & Projects
-
-| Domain                     | Skills/Tools                                | Projects                                                                                                                                                                                                                                                |
-| --------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ☁️ **Cloud (AWS)**        | EC2, S3, RDS, VPC, CloudWatch, IAM           | - [CloudWatch Monitoring Dashboard](https://github.com/srushtideshmukh44/cloudwatch-monitoring-dashboard)<br>- [VPC Flow Logs to S3](https://github.com/srushtideshmukh44/vpc-flow-logs-to-s3)                                                            |
-| 🐳 **Docker**             | Docker, DockerHub                           | - [Dockerized Food Waste App](https://github.com/srushtideshmukh44/food-waste-docker)                                                                                                                            |
-| 🔁 **CI/CD Pipeline**     | Jenkins, Git, GitHub                        | - [Student Registration App with Jenkins Deployment](https://github.com/srushtideshmukh44/student-registration-jenkins)                                                                                                                                |
-| 🛡 **Monitoring & Security** | CloudWatch, IAM Policies                  | - [Log Monitoring and Security with CloudWatch](https://github.com/srushtideshmukh44/cloudwatch-security-project)                                                                                                 |
-
----
 
 ## 🛠️ Languages and Tools
 
