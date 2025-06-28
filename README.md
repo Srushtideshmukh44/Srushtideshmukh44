@@ -3,8 +3,14 @@
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Srushtideshmukh44&label=Profile%20views&color=0e75b6&style=flat" alt="srushtideshmukh44" /> </p
-                                                 |
+                                                 
+ 🔭 I’m currently working on **AWS,DevOps project**
+- 🌱 I’m currently learning **DevOps tools**
+- 💬 Ask me about **DevOps and cloud related**
+- 📫 How to reach me **deshmukh.srushti04@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 ## 🛠️ Languages and Tools
 
